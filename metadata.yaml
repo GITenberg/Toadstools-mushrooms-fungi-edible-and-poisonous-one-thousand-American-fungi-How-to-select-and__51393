@@ -1,0 +1,34 @@
+_repo: Toadstools-mushrooms-fungi-edible-and-poisonous-one-thousand-American-fungi-How-to-select-and__51393
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Macadam, Robert K.
+    gutenberg_agent_id: '46393'
+    url: http://www.gutenberg.org/2009/agents/46393
+  - agent_name: McIlvaine, Charles
+    birthdate: 1840
+    deathdate: 1909
+    gutenberg_agent_id: '46392'
+    url: http://www.gutenberg.org/2009/agents/46392
+description: ''
+gutenberg_issued: '2016-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51393'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mushrooms, Poisonous -- North America'
+- !lcsh 'Edible mushrooms -- North America'
+- !lcsh 'Cooking (Mushrooms)'
+- !lcc 'QK'
+- !lcsh 'Mushrooms'
+- !lcsh 'Fungi -- North America'
+- GITenberg
+title: "Toadstools, mushrooms, fungi, edible and poisonous; one thousand American\
+  \ fungi\r\nHow to select and cook the edible; how to distinguish and avoid the poisonous,\
+  \ with full botanic descriptions. Toadstool poisons and their treatment, instructions\
+  \ to students, recipes for cooking, etc., etc."
+url: http://www.gutenberg.org/ebooks/51393
